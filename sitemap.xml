@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://kemmott.github.com/blog/2012/02/14/welcome/</loc>
+        <lastmod>2012-02-14T14:43:42-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://kemmott.github.com/blog/archives/</loc>
-        <lastmod>2012-02-13T15:24:40-05:00</lastmod>
+        <lastmod>2012-02-14T14:43:42-05:00</lastmod>
     </url>
     <url>
         <loc>http://kemmott.github.com/</loc>
-        <lastmod>2012-02-13T15:24:40-05:00</lastmod>
+        <lastmod>2012-02-14T14:43:42-05:00</lastmod>
     </url>
 </urlset>
